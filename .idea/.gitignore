@@ -1,0 +1,33 @@
+# compiled source #
+##################
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+*.so
+
+# Packages #
+#############
+*.xml
+*.7z
+*.dmg
+*.gz
+*.iso
+*.jar
+*.rar
+*.tar
+*.zip
+*.cache
+*.dll
+*.exe
+*.pdb
+/build/
+*.suo
+*.user
+_ReSharper.*/
+*.sdf
+*.opensdf
+*.tlog
+*.log
